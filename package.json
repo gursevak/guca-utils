@@ -19,6 +19,6 @@
     "fast-csv": "^2.5.0",
     "gurmukhi-utils": "^2.1.0",
     "jquery": "^3.4.1",
-    "jsdom": "^15.1.1"
+    "jsdom": "^16.5.0"
   }
 }
